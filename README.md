@@ -18,7 +18,7 @@ A comprehensive  notebook that independently explores NBA teams and player perfo
 ---
 
 ### 2. 'NBA Player Analysis.pdf' + 'NBA Player Analysis.R' 
-A multi-part project that focuses on how NBA player performance has changed over time and differs by position. This is backed by an extensive statistical report and accompanying R code.
+A multi-part project that focuses on how NBA player performance has changed over time and differs by position, backed by a statistical report and accompanying R code.
 
 **Key Topics:**
 - Evolution of scoring, rebounding, and assists from 1947–2024
