@@ -6,7 +6,7 @@ This repository contains  projects that explore NBA player and team performance 
 
 ##  Repository Structure
 
-### 1. 'NBA Dataset Analysis.ipynb' — *Standalone Project*
+### 1. 'NBA Dataset Analysis.ipynb'
 A comprehensive  notebook that independently explores NBA teams and player performance across seasons.
 
 **Features:**
@@ -17,7 +17,7 @@ A comprehensive  notebook that independently explores NBA teams and player perfo
 
 ---
 
-### 2. 'NBA Player Analysis.pdf' + 'NBA Player Analysis.R' Code Notebook
+### 2. 'NBA Player Analysis.pdf' + 'NBA Player Analysis.R' 
 A multi-part project that focuses on how NBA player performance has changed over time and differs by position. This is backed by an extensive statistical report and accompanying R code.
 
 **Key Topics:**
@@ -29,7 +29,7 @@ A multi-part project that focuses on how NBA player performance has changed over
 - Logistic regression predicting MVP finalists based on per-game stats
 
 **Files Included:**
-- NBA Player Statistics Analysis.pdf` — Full report with graphs, interpretation, and results  
+- NBA Player Statistics Analysis.pdf — Full report with graphs, interpretation, and results  
 - NBA Player Analysis.R Notebook — Source code for data cleaning, modeling, and visualization
 - NBA Player Analysis.pdf - Full analysis and breakdown of statistical models and findings
 
