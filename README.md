@@ -6,8 +6,8 @@ The goal of this repository is twofold:
 1) To apply formal statistical methods to real-world sports data
 2) To translate complex results into insights that basketball fans and analysts can understand
 
-Repository Structure
-## __1. NBA Dataset Analysis.ipynb__
+## __Repository Structure__
+### __1. NBA Dataset Analysis.ipynb__
 
 A Python-based exploratory data analysis project built on a large, multi-table NBA dataset sourced from Kaggle. This notebook focuses on data inspection, cleaning, merging, and exploratory visualization to understand player scoring behavior, efficiency, and team-level trends.
 
@@ -48,7 +48,7 @@ Home Court Advantage Analysis
 - Data Export
   - Final merged dataset exported as a CSV for future modeling and analysis
 
-## **2. NBA Player Analysis.pdf + NBA Player Analysis.R**
+### **2. NBA Player Analysis.pdf + NBA Player Analysis.R**
 
 A comprehensive, research-style project analyzing NBA player evolution, positional differences, and MVP-level performance using advanced statistical techniques in R. The PDF contains the full written analysis and interpretation, while the R script contains all data cleaning, transformation, modeling, and visualization code.
 
