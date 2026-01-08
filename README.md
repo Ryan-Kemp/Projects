@@ -21,7 +21,7 @@ __Key Objectives:__
 - Build a clean, merged dataset suitable for player-level and team-level analysis
 - Explore scoring distributions, player efficiency, and home-court advantage
 
-Key Analyses & Features:
+__Key Analyses & Features:__
 - Comprehensive Data Inspection
   - Automated inspection function to review shape, data types, missing values, and summary statistics
   - Used as a reference tool throughout the project for plotting and modeling
@@ -41,7 +41,7 @@ Key Analyses & Features:
   - Constructed a PER-style efficiency score using box-score statistics
   - Ranked top 10 players by average efficiency for the 2020 season
   - Results aligned closely with real-world elite players (e.g., Jokic, Giannis, Luka)
-Home Court Advantage Analysis
+- Home Court Advantage Analysis
   - Calculated league-wide home win percentage (~58.7%)
   - Tracked home-court advantage by season
   - Observed a clear dip during the 2019–2020 COVID season and gradual recovery afterward
@@ -55,7 +55,7 @@ A comprehensive, research-style project analyzing NBA player evolution, position
 __Project Overview__
 This project uses player per-game statistics from 1947–2024 to study how NBA performance has evolved across eras and positions. The analysis emphasizes statistical validity, interpretability, and historical context.
 
-Core Components of the R Analysis:
+__Core Components of the R Analysis:__
 - Data Cleaning & Feature Engineering
   - Standardized column naming and data types
   - Created decade-based groupings to enable era comparisons
@@ -89,7 +89,7 @@ This project bridges basketball intuition with formal statistical modeling, demo
 - Source: Kaggle (historical NBA per-game player statistics)
   - Coverage: 1947–2024 seasons
 
-__Data Cleaning & Preprocessing__
+__Data Cleaning & Preprocessing:__
 - Removed players with insufficient games played per season
 - Excluded irregular seasons (e.g., 2020 COVID-shortened season)
 - Simplified positions into Guard, Forward, and Center
