@@ -31,7 +31,7 @@ __Key Analyses & Features:__
   - Verified duplicate rows across all datasets
   - Standardized date formats and column naming
 - Dataset Merging
-  - Merged player boxscore data with player metadata and game-level information
+  - Merged player box score data with player metadata and game-level information
   - Integrated team metadata for both home and away teams
   - Produced a unified player–game dataset for downstream analysis
 - Scoring Distribution Analysis
