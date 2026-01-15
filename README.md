@@ -19,7 +19,7 @@ __Dataset Scope:__
 __Key Objectives:__
 - Understand the structure and limitations of raw NBA data
 - Build a clean, merged dataset suitable for player-level and team-level analysis
-- Explore scoring distributions, player efficiency, and home-court advantage
+- Explore scoring distributions, player efficiency, and home court advantage
 
 __Key Analyses & Features:__
 - Comprehensive Data Inspection
@@ -31,19 +31,19 @@ __Key Analyses & Features:__
   - Verified duplicate rows across all datasets
   - Standardized date formats and column naming
 - Dataset Merging
-  - Merged player box-score data with player metadata and game-level information
+  - Merged player boxscore data with player metadata and game-level information
   - Integrated team metadata for both home and away teams
   - Produced a unified player–game dataset for downstream analysis
 - Scoring Distribution Analysis
   - Histogram analysis of points scored per game
   - Identified clear scoring tiers: end-of-bench players, role players, secondary options, and superstars
 - Custom Player Efficiency Metric
-  - Constructed a PER-style efficiency score using box-score statistics
+  - Constructed a PER-style efficiency score using box score statistics
   - Ranked top 10 players by average efficiency for the 2020 season
   - Results aligned closely with real-world elite players (e.g., Jokic, Giannis, Luka)
 - Home Court Advantage Analysis
   - Calculated league-wide home win percentage (~58.7%)
-  - Tracked home-court advantage by season
+  - Tracked home court advantage by season
   - Observed a clear dip during the 2019–2020 COVID season and gradual recovery afterward
 - Data Export
   - Final merged dataset exported as a CSV for future modeling and analysis
@@ -82,7 +82,7 @@ __Core Components of the R Analysis:__
   - Fit a logistic regression model using per-game stats and minutes played
   - Successfully identified statistically MVP-caliber profiles for the 2024 season
 
-This project bridges basketball intuition with formal statistical modeling, demonstrating how traditional box-score data can be used to explain historical trends and predict elite performance.
+This project bridges basketball intuition with formal statistical modeling, demonstrating how traditional box score data can be used to explain historical trends and predict elite performance.
 
 ### __Dataset Information__
 
